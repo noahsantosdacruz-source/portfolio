@@ -1,0 +1,5 @@
+Pour ce connecter sur Java 
+
+
+
+java -jar JMerise.jar
