@@ -48,36 +48,29 @@
 
 ---
 
-## 🛠️ Compétences Techniques
+ 🛠️ Compétences Techniques
 
-### Développement
-![Python](<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/e9d6491e-ff5f-4390-ac22-cfcfb5bf6dfc" />
-)
-![PHP](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FPHP&ved=0CBYQjRxqFwoTCMiAgYLjwpIDFQAAAAAdAAAAABAH&opi=89978449)
-![JavaScript](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/1a63a5d8-8546-4824-848f-7f12b0e78c84" />
-)
-![Java](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FJava_(technique)&ved=0CBYQjRxqFwoTCKiQ_7TjwpIDFQAAAAAdAAAAABAI&opi=89978449)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png)
-![CSS3](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3ACSS3_logo_and_wordmark.svg&ved=0CBYQjRxqFwoTCODdrsnjwpIDFQAAAAAdAAAAABAj&opi=89978449)
+ Développement
+Python, Java , Html5 , css3, Javascript
 
-### Base de Données
+ Base de Données
 - MySQL
 
-### Réseaux & Infrastructure
+ Réseaux & Infrastructure
 - Cisco
 - TCP/IP
 - VLAN
 - VoIP
 - Configuration de réseaux
 
-### Systèmes d'Exploitation
+Systèmes d'Exploitation
 - Windows
 - MacOS
 - Linux
 - iOS
 - Android
 
-### Outils
+ Outils
 - Office 365
 - Flexibilité professionnelle
 
@@ -95,14 +88,14 @@
 - 📸 Photographie
 
 
-#Contact
+Contact
 
 N'hésitez pas à me contacter pour toute opportunité d'alternance ou de collaboration :
 
 *Email* : noahsantosdacruz@gmail.com
 Téléphone : 06 46 72 55 95
 
-## 🎓 Recherche d'Alternance
+🎓 Recherche d'Alternance
 
 Je suis actuellement à la recherche d'une alternance pour **septembre 2026** avec un rythme d'une fois toutes les deux semaines (2 ou 3 jours en entreprise). 
 
